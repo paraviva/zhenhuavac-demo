@@ -3,13 +3,13 @@ import type {
   WPEquipment,
   WPPost,
   WPSiteMeta,
-} from '../src/types/wp.ts';
+} from '../src/types/wp';
 import {
   wpApplicationsData,
   wpEquipmentData,
   wpPostsData,
   wpSiteMetaBase,
-} from './wpData.ts';
+} from './wpData';
 
 interface CacheEntry<T> {
   value: T;

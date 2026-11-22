@@ -4,7 +4,7 @@ import type {
   WPEquipment,
   WPPost,
   WPSiteMeta,
-} from '../src/types/wp.ts';
+} from '../src/types/wp';
 
 const SITE_BASE = process.env.WORDPRESS_SITE_URL || 'https://www.zhenhuavac.com';
 
