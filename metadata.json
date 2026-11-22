@@ -1,0 +1,6 @@
+{
+  "name": "Zhenhua Vacuum – Headless WordPress Industrial MVP",
+  "description": "Precision PVD vacuum coating equipment, inline magnetron sputtering systems, and optical coating lines for Guangdong Zhenhua Technology Co., Ltd. Built on a clean Headless WordPress architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
